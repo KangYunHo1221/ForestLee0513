@@ -9,5 +9,4 @@ I want Front-end position(actually I want Back-end position little bit..🤫) an
 - React  
 - Python  
 ## 📈 My Commit Status  
-It's not yet created  
-But don't worry, It's normally and I'm trying import badges in my README.md page   
+![commitBanner](https://github-readme-stats.vercel.app/api?username=nomorebuild&show_icons=true&theme=radical)
