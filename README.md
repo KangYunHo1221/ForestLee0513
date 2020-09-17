@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**NoMoreBuild/NoMoreBuild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 I'm Woolim Lee aka NoMoreBuild   
+## 🤔 Introduce my self.  
+Hi, I'm Woolim Lee aka NoMoreBuild from South Korea   
+I want Front-end position(actually I want Back-end position little bit..🤫) and I learning Front-End things now   
+## 🖥 I'm using _____.  
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- Python  
+## 📈 My Commit Status  
+It's not yet created  
+But don't worry, It's normally and I'm trying import badges in my README.md page   
