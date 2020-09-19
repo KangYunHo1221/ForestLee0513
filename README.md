@@ -2,7 +2,7 @@
 ### 🤔 Introduce my self.  
 Hi, I'm Woolim Lee aka NoMoreBuild from South Korea   
 I want Front-end position(actually I want Back-end position little bit..🤫) and I learning Front-End things now   
-### 🖥 I'm using _____.  
+### 🖥 I'm using this.  
 - HTML  
 - CSS  
 - JavaScript  
