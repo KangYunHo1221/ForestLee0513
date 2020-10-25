@@ -9,3 +9,4 @@ I want Front-end position(actually I want Back-end position little bit..🤫) an
 - Python  
 ### 📈 My Github Status  
 ![githubBanner](https://github-readme-stats.vercel.app/api?username=nomorebuild&show_icons=true)
+![topUsed](https://github-readme-stats.vercel.app/api/top-langs/?username=nomorebuild)
