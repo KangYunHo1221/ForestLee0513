@@ -1,7 +1,7 @@
 ## 👋 I'm Woolim Lee aka NoMoreBuild   
 ### 🤔 About me.  
 Hi, I'm Woolim Lee aka NoMoreBuild.   
-I want Front-end position and I'm learning Front-End things like react, javascript   
+I'm Front-end. and learning Front-End things like React, JavaScript, Gatsby...   
 <a href="https://www.linkedin.com/in/woolimlee0513/" target="_blank">
   ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
