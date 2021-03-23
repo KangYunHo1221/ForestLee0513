@@ -13,5 +13,5 @@ I wanna be Full Stack engineer. and learning Full Stack tech things like React, 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ### 📈 My Github Status   
 ![githubBanner](https://github-readme-stats.vercel.app/api?username=nomorebuild&show_icons=true)
-### 📈 Top Used Programming Languages  
+### 📈 Most Used Languages  
 ![topUsed](https://github-readme-stats.vercel.app/api/top-langs/?username=nomorebuild)
