@@ -5,6 +5,9 @@ I wanna be Full Stack engineer. and learning Full Stack tech things like React, 
 <a href="https://www.linkedin.com/in/woolimlee0513/" target="_blank">
   ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
+<a href="https://www.notion.so/b82a79637a9a476d88595924b341b81a" target="_blank">
+  ![Resume](https://img.shields.io/badge/-Resume-lightgrey?style=for-the-badge)
+</a>
 ### 🖥 I'm using this.  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
