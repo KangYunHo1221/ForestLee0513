@@ -1,4 +1,7 @@
-## 👋 I'm Woolim Lee aka NoMoreBuild   
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Woolim%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=aka%20NoMoreBuild&descAlignY=51&descAlign=70" alt="title"  />
+</div>
+
 ### 🤔 About me.  
 Hi, I'm Woolim Lee aka NoMoreBuild.   
 I wanna be Full Stack engineer. and learning Full Stack tech things like React, JavaScript, Express, MongoDB...   
