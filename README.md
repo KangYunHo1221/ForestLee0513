@@ -4,7 +4,6 @@
 
 ### 🤔 About me.  
 Hi, I'm Woolim Lee aka NoMoreBuild.   
-I wanna be Full Stack engineer. and learning Full Stack tech things like React, JavaScript, TypeScript, Express...   
 <a href="https://www.notion.so/b82a79637a9a476d88595924b341b81a" target="_blank">
   ![Resume](https://img.shields.io/badge/-Resume-lightgrey?style=for-the-badge&logo=notion)
 </a>
