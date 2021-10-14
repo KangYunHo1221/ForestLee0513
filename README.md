@@ -4,8 +4,11 @@
 
 ### 🤔 About me.  
 Hi, I'm Woolim Lee aka NoMoreBuild.   
-<a href="https://www.notion.so/b82a79637a9a476d88595924b341b81a" target="_blank">
+<a href="https://forestlee.notion.site/b82a79637a9a476d88595924b341b81a" target="_blank">
   ![Resume](https://img.shields.io/badge/-Resume-lightgrey?style=for-the-badge&logo=notion)
+</a>
+<a href="https://forestlee.notion.site/Woolim-Lee-9e3560e62ab74aa18fb2122a96d8c367" target="_blank">
+  ![Resume-English](https://img.shields.io/badge/-Resume%20(en)-lightgrey?style=for-the-badge&logo=notion)
 </a>
 ### 🖥 I'm using this.  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,3 +20,6 @@ Hi, I'm Woolim Lee aka NoMoreBuild.
 ![githubBanner](https://github-readme-stats.vercel.app/api?username=nomorebuild&show_icons=true)
 ### 📈 Most Used Languages  
 ![topUsed](https://github-readme-stats.vercel.app/api/top-langs/?username=nomorebuild)
+
+
+
