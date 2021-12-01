@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Woolim%20Lee&fontSize=90&animation=fadeIn&fontAlignY=38&desc=aka%20NoMoreBuild&descAlignY=51&descAlign=70" alt="title"  />
+  <img src="https://github.com/NoMoreBuild/NoMoreBuild/blob/master/thumbnail.png?raw=true" alt="thumbnail" width="100%" />
 </div>
 
 ### 🤔 About me.  
@@ -14,7 +14,8 @@ Hi, I'm Woolim Lee aka NoMoreBuild.
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ### 📈 My Github Stats   
-![githubBanner](https://github-readme-stats.vercel.app/api?username=nomorebuild&show_icons=true)
+![githubBanner](https://github-readme-stats.vercel.app/api?username=nomorebuild&show_icons=true)![thumbnail](https://user-images.githubusercontent.com/46279124/144163664-9fa701b9-05cb-4262-b68a-e11ba88386d3.png)
+
 ### 📈 Most Used Languages  
 ![topUsed](https://github-readme-stats.vercel.app/api/top-langs/?username=nomorebuild)
 
