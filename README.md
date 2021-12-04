@@ -4,9 +4,6 @@
 
 ### 🤔 About me.  
 Hi, I'm Woolim Lee aka NoMoreBuild.   
-<a href="https://forestlee.notion.site/b82a79637a9a476d88595924b341b81a" target="_blank">
-  ![Resume](https://img.shields.io/badge/-Resume-lightgrey?style=for-the-badge&logo=notion)
-</a>
 
 ### 🖥 I'm using this.  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
