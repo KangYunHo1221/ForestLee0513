@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ForestLee0513/ForestLee0513/blob/master/thumbnail-new.png?raw=true" alt="thumbnail-title" width="100%" />
+  <img src="https://github.com/ForestLee0513/ForestLee0513/blob/master/github-banner.png?raw=true" alt="thumbnail-title" width="100%" />
 </div>
 
 ### 🤔 About me.
