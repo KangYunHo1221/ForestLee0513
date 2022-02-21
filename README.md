@@ -15,5 +15,5 @@
 
   <h3>👑 Github Trophy</h3>
   
-  ![github-trophy](https://github-profile-trophy.vercel.app/?username=project-mizzu&theme=darkhub)
+  ![github-trophy](https://github-profile-trophy.vercel.app/?username=ForestLee0513&theme=darkhub)
 </div>
